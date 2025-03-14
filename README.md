@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ecenur Zünbül! 👋</h1>
+<h2 align="center"> 👩🏻‍💻 About me 👩🏻‍💻</h2>
 
-<!--
-**ecenurzunbul/ecenurzunbul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer with a strong foundation in Java, and basic knowledge of C++, Python, MySQL, and LaTeX. During my studies, I worked on various academic projects, including a Dart and Google Firebase-based graduation project, which helped me apply my theoretical knowledge to real-world development.
 
-Here are some ideas to get you started:
+I am currently focused on learning and improving my skills in Spring Boot and backend technologies to build more efficient applications. I am passionate about learning new tools and technologies and excited to apply my knowledge in future projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Open to new opportunities.
+📫 You can reach me via LinkedIn or check out my projects on GitHub.
+
+## Languages & Tools I use 
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+</p>
