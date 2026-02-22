@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ecenur Zünbül! 👋</h1>
+<h1 align="center">Hi, I'm Ece! 👋</h1>
 <h2 align="center"> 👩🏻‍💻 About me 👩🏻‍💻</h2>
 
 I am a software developer with a strong foundation in Java, and basic knowledge of C++, Python, MySQL, and LaTeX. During my studies, I worked on various academic projects, including a Dart and Google Firebase-based graduation project, which helped me apply my theoretical knowledge to real-world development.
